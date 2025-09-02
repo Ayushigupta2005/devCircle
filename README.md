@@ -1,6 +1,5 @@
 <h1>DevCircle</h1>
 
-
 DevCircle is an Android application designed to foster a vibrant community of programmers. It enables developers to share the latest tech trends, showcase their projects, network with peers, and get AI-powered assistance to solve coding problems and analyze algorithms.
 
 ---
@@ -38,8 +37,6 @@ Firebase Realtime Database for seamless cloud synchronization.
 Networking: Retrofit for efficient API communication.
 
 Asynchronous Operations: Kotlin Coroutines to manage 10+ async flows, ensuring non-blocking UI and smooth performance.
-
-UI: Jetpack Compose (or XML - choose one) with RecyclerView for efficient list rendering.
 
 ---
 
